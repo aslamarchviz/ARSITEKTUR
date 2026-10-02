@@ -1,0 +1,17 @@
+CARA MANUAL
+
+Buka Terminal/Command Prompt pada folder project, lalu:
+
+npm install
+npm run verify
+npm run dev
+
+Buka:
+http://localhost:5173/#edit
+
+Untuk halaman publik:
+http://localhost:5173/
+
+Untuk production build:
+npm run build
+npm run preview

@@ -1,0 +1,12 @@
+ARCHITECTURE PORTFOLIO — CARA MENJALANKAN
+
+1. Install Node.js LTS dari https://nodejs.org/
+2. Ekstrak seluruh ZIP ke satu folder.
+3. Double-click MULAI-WEBSITE.bat
+4. Tunggu proses pertama kali selesai. npm install hanya dilakukan bila node_modules belum tersedia.
+5. Browser akan membuka http://localhost:5173/#edit
+6. Jangan tutup jendela "ARCHITECTURE PORTFOLIO SERVER" selama website digunakan.
+
+Jika terjadi error, JANGAN tutup jendela launcher. Screenshot pesan error yang terlihat dan kirimkan kepada ChatGPT.
+
+Jangan membuka index.html dengan double-click. Project ini dijalankan melalui Vite.
